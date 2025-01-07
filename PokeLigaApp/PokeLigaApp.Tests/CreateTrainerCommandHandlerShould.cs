@@ -18,6 +18,25 @@ public class CreateTrainerCommandHandlerShould
         testTrainerRepository.Trainers.Should().ContainSingle(t => t.Username == username);
         testTrainerRepository.Trainers.Single().PokemonTeam.Should().BeEquivalentTo(pokemonTeam);
     }
+
+    [Test]
+    public async Task raise_an_error_when_a_pokemon_type_is_invalid()
+    {
+        const string username = "Ash";
+        var pokemonTeam = new List<Pokemon>{new Pokemon("Pikachu", "Electrico")};
+        var createTrainerCommand = new CreateTrainerCommand(username, pokemonTeam);
+        var testTrainerRepository = new TestTrainerRepository();
+        
+        var createTrainerCommandHandler = new CreateTrainerCommandHandler(testTrainerRepository);
+        Func<Task> handler = async() => await createTrainerCommandHandler.Execute(createTrainerCommand);
+        
+        await handler.Should().ThrowAsync<PokemonTypeInvalidException>().WithMessage("Solo fuego, agua y planta son validos");
+
+    }
+}
+
+public class PokemonTypeInvalidException : Exception
+{
 }
 
 public class TestTrainerRepository : TrainerRepository
@@ -61,6 +80,8 @@ public class CreateTrainerCommand
     }
 }
 
-public class Pokemon
+public class Pokemon(string Name, string Type)
 {
+    public string Name { get; } = Name;
+    public string Type { get; } = Type;
 }
