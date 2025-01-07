@@ -35,25 +35,29 @@ public interface TrainerRepository
     Task Add(Trainer trainer);
 }
 
-public class Trainer
+public class Trainer(string Username, List<Pokemon> PokemonTeam)
 {
-    public string Username { get; set; }
-    public List<Pokemon> PokemonTeam { get; set; }
+    public string Username { get; } = Username;
+    public List<Pokemon> PokemonTeam { get; } = PokemonTeam;
 }
 
-public class CreateTrainerCommandHandler(TestTrainerRepository testTrainerRepository)
+public class CreateTrainerCommandHandler(TrainerRepository trainerRepository)
 {
     public async Task Execute(CreateTrainerCommand command)
     {
-        
+        trainerRepository.Add(new Trainer(command.Username,command.PokemonTeam));
     }
 }
 
 public class CreateTrainerCommand
 {
+    public string Username { get; }
+    public List<Pokemon> PokemonTeam { get; }
+
     public CreateTrainerCommand(string username, List<Pokemon> pokemonTeam)
     {
-        
+        Username = username;
+        PokemonTeam = pokemonTeam;
     }
 }
 

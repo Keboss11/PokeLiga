@@ -27,16 +27,7 @@ public class Tests
         Assert.That(result, Is.EqualTo(3));
     }
     
-    [Test]
-    public void Test2()
-    {
-        var x = 2;
-        var y = 2;
-        
-        var result = Sum(x, y);
-        
-        Assert.That(result, Is.EqualTo(4));
-    }
+     
 
     [Test]
     public void fire_pokemon_beats_plant_pokemon()
