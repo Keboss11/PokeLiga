@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TCMrkRcqQU5iNBkwtqdDd4dNNpcYjXMVxTFrv2kG8G0=",
+  "Hash": "41kFLKGsbmL+k995nHRg/rg+pkmc7aNIdJYIyuwvu+I=",
   "Source": "PokeLigaApp",
   "BasePath": "_content/PokeLigaApp",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\0zf5akgle3-khv3u5hwcm.gz",
+      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\0zf5akgle3-gye83jo8yx.gz",
       "SourceId": "PokeLigaApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PokeLigaApp",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint=khv3u5hwcm}]?.css.gz",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint=gye83jo8yx}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,8 +31,8 @@
       "RelatedAsset": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "g3lpifp44y",
-      "Integrity": "9EqjQR8ugEerwGk0t0elN3RQ+XHT25kPo1+/yYXwvNM=",
+      "Fingerprint": "k64ed53csw",
+      "Integrity": "VGKPtySribew+qZrTcy+fpnTi7Q3gxSv+HWQQ/4rQos=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "shxmjhlez9",
-      "Integrity": "8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o=",
+      "Fingerprint": "596e5mu3rg",
+      "Integrity": "KfTtGgOr4gFqWP6bDC3erwKnY0fchsCFGM8SFQeyGO0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\app.css"
@@ -101,12 +101,12 @@
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\1kirfd7603-bqjiyaj88i.gz",
+      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\1kirfd7603-t1cqhe9u97.gz",
       "SourceId": "PokeLigaApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PokeLigaApp",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint=bqjiyaj88i}]?.css.gz",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint=t1cqhe9u97}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -115,8 +115,8 @@
       "RelatedAsset": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "p1uwaguxw6",
-      "Integrity": "HQp0c6N8q5wOxo27/7+5nSrp8SBfCepJdWIMB3pb5bE=",
+      "Fingerprint": "7trewrvtze",
+      "Integrity": "td/WnErsJHKP3LT8Bz6znCdABuCWnP513FYSQpHRK9A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
@@ -143,12 +143,12 @@
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\21v7whm1kj-37tfw0ft22.gz",
+      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\21v7whm1kj-ynyaa8k90p.gz",
       "SourceId": "PokeLigaApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PokeLigaApp",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint=37tfw0ft22}]?.css.gz",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint=ynyaa8k90p}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -157,8 +157,8 @@
       "RelatedAsset": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "7kvveri0mt",
-      "Integrity": "h+uVSG7EhchzF96LorZkFbGFBO8oQowufr5PhxsGq8M=",
+      "Fingerprint": "0uw774o5yt",
+      "Integrity": "CKd1DZe0tmjYGXJCdpcyExOT7GvFEZKGtk3+Ij7ZTSc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
@@ -269,12 +269,12 @@
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\7oprhio1yw-notf2xhcfb.gz",
+      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\7oprhio1yw-u9q1upor1n.gz",
       "SourceId": "PokeLigaApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PokeLigaApp",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint=notf2xhcfb}]?.js.gz",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint=u9q1upor1n}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -283,19 +283,19 @@
       "RelatedAsset": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "winy7sfnv8",
-      "Integrity": "mLLuMjFYOIYX8xSc8UD/TLCKJOjlhcscgrxC5va1aAs=",
+      "Fingerprint": "f711a7kh87",
+      "Integrity": "pf2AOjAOccWBEl9ORfBaaHo0t3lQUfisiqfIeMW9tqI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\82boisd0bt-tdbxkamptv.gz",
+      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\82boisd0bt-d4r6k3f320.gz",
       "SourceId": "PokeLigaApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PokeLigaApp",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint=tdbxkamptv}]?.css.gz",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint=d4r6k3f320}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -304,8 +304,8 @@
       "RelatedAsset": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "letd63iq5t",
-      "Integrity": "49exWGtFTeHrxPgcV2SALyeXqbJ0Gx2BAW7ghwTbDHs=",
+      "Fingerprint": "42ih0tfzwc",
+      "Integrity": "rLnVjI3ToFgRadgC+qnQqkjBbeGzyUk/W1M+MRurfiM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
@@ -367,8 +367,8 @@
       "RelatedAsset": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PokeLigaApp.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "o9c3p8u42a",
-      "Integrity": "JOag/yqfg+Tpx844DjWX91y4pl3QSaG44/0f1OKleX4=",
+      "Fingerprint": "9fhtoxxj2c",
+      "Integrity": "dQntmoHnlz59nHPaR4KqwvQuh9PCw/ee9HU8AK2f88I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PokeLigaApp.bundle.scp.css"
@@ -479,12 +479,12 @@
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\dklgk9toxf-s35ty4nyc5.gz",
+      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\dklgk9toxf-zub09dkrxp.gz",
       "SourceId": "PokeLigaApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PokeLigaApp",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint=s35ty4nyc5}]?.css.gz",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint=zub09dkrxp}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -493,8 +493,8 @@
       "RelatedAsset": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "dp6dicxiq4",
-      "Integrity": "MfXRRxefGD0S0k5f3gXwZNQW7ELiStY01dZj+IbLlaw=",
+      "Fingerprint": "nqh38a62u8",
+      "Integrity": "j8xOcokVqVMlkhtMkAD+dCGjp8eCK+RXUPREaOqe2TU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
@@ -535,8 +535,8 @@
       "RelatedAsset": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PokeLigaApp.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "o9c3p8u42a",
-      "Integrity": "JOag/yqfg+Tpx844DjWX91y4pl3QSaG44/0f1OKleX4=",
+      "Fingerprint": "9fhtoxxj2c",
+      "Integrity": "dQntmoHnlz59nHPaR4KqwvQuh9PCw/ee9HU8AK2f88I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PokeLigaApp.styles.css"
@@ -584,12 +584,12 @@
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\kxlwsye7uh-d7shbmvgxk.gz",
+      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\kxlwsye7uh-xvp3kq03qx.gz",
       "SourceId": "PokeLigaApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PokeLigaApp",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint=d7shbmvgxk}]?.css.gz",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint=xvp3kq03qx}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -598,8 +598,8 @@
       "RelatedAsset": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "316ql842l5",
-      "Integrity": "+UkMsfq0zPH03cQtfw9papLT2sHleN3bw7S1s5iLonY=",
+      "Fingerprint": "1xcrflemqm",
+      "Integrity": "Jb3hghPX8HIvLINQ2LRDLH33mFfqyzbk+nTsbiHtKr4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
@@ -773,12 +773,12 @@
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\q7tm03pejf-vr1egmr9el.gz",
+      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\q7tm03pejf-ltid2c489k.gz",
       "SourceId": "PokeLigaApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PokeLigaApp",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint=vr1egmr9el}]?.js.gz",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint=ltid2c489k}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -787,8 +787,8 @@
       "RelatedAsset": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "9z27fl73l7",
-      "Integrity": "K+JV1bWtCSH6pUbk4PUJUao1Gc0EagazN8O9VnhFaPE=",
+      "Fingerprint": "jgdip1sczm",
+      "Integrity": "ozEUTWBbc3wKZYb3ecLdk+9yMj3kbTTBJx6aTKh2FDs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
@@ -815,12 +815,12 @@
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\s0xfmq02n0-ub07r2b239.gz",
+      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\s0xfmq02n0-qesaa3a1fm.gz",
       "SourceId": "PokeLigaApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PokeLigaApp",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint=ub07r2b239}]?.css.gz",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint=qesaa3a1fm}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -829,19 +829,19 @@
       "RelatedAsset": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "syqesifl59",
-      "Integrity": "/Cti7KtgK7n0FoWSWRMvmhTwGSxieEUp+Ao+6Xxnmug=",
+      "Fingerprint": "dtwnk525ov",
+      "Integrity": "H9IPXBzUtJGG7PJdjNTz1WD7YcFYCi+22bHkHPR+CdY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\smf20zgjmj-6cfz1n2cew.gz",
+      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\smf20zgjmj-4094rpi4f9.gz",
       "SourceId": "PokeLigaApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PokeLigaApp",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint=6cfz1n2cew}]?.js.gz",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint=4094rpi4f9}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -850,8 +850,8 @@
       "RelatedAsset": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "zqu1wssclk",
-      "Integrity": "Fd462fjZQtrrvL/sHbIIZF7ktZgtHombUabahz+Nhoo=",
+      "Fingerprint": "u3mr700haq",
+      "Integrity": "qk/LGv3UCKBZhVKSwN0Lvyprj8TiWmp+iiWhP0Dwdt4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
@@ -920,12 +920,12 @@
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\vus1zivtfa-rzd6atqjts.gz",
+      "Identity": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\vus1zivtfa-rxsg74s51o.gz",
       "SourceId": "PokeLigaApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PokeLigaApp",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint=rzd6atqjts}]?.css.gz",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint=rxsg74s51o}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -934,8 +934,8 @@
       "RelatedAsset": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "vkbr9nomgm",
-      "Integrity": "oSfmOJQjIULAN8mPr84YlRct/JVoFbWAn9Y7IWzBuoc=",
+      "Fingerprint": "xmcjt9e9cy",
+      "Integrity": "ueerZxLdSKIEsWJ13wzBfTcRfd3uGSfOQwhUfM1jRec=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
@@ -1102,8 +1102,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bqjiyaj88i",
-      "Integrity": "Yy5/hBqRmmU2MJ1TKwP2aXoTO6+OjzrLmJIsC2Wy4H8=",
+      "Fingerprint": "t1cqhe9u97",
+      "Integrity": "f4c8YV1qrr6RSiVYWMQT7R5W2OkT+iXmE5H69/uRvGQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
@@ -1186,8 +1186,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "d7shbmvgxk",
-      "Integrity": "CZxoF8zjaLlyVkcvVCDlc8CeQR1w1RMrvgYx30cs8kM=",
+      "Fingerprint": "xvp3kq03qx",
+      "Integrity": "M15fHTKfMK6cTars5c28PNhN6hD0qeUb3HPzOdoPwCc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
@@ -1270,8 +1270,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ub07r2b239",
-      "Integrity": "lo9YI82OF03vojdu+XOR3+DRrLIpMhpzZNmHbM5CDMA=",
+      "Fingerprint": "qesaa3a1fm",
+      "Integrity": "rjusxCRzKjztCcfgOVduAc3e3Z7KvimJGokJSeADNmE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
@@ -1354,8 +1354,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rzd6atqjts",
-      "Integrity": "V8psnHoJS/MPlCXWwc/J3tGtp9c3gGFRmqsIQgpn+Gg=",
+      "Fingerprint": "rxsg74s51o",
+      "Integrity": "gRKIHVkBgnCPUs/hmZsXynZ9ZJpvsE77idtljDkrWGI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
@@ -1438,8 +1438,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "khv3u5hwcm",
-      "Integrity": "2BubgNUPlQSF/0wLFcRXQ/Yjzk9vsUbDAeK2QM+h+yo=",
+      "Fingerprint": "gye83jo8yx",
+      "Integrity": "uIzOR4gILoNjCGNryIsWnkEGO3BSwRa/MLjr73tDodE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
@@ -1522,8 +1522,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "tdbxkamptv",
-      "Integrity": "H6wkBbSwjua2veJoThJo4uy161jp+DOiZTloUlcZ6qQ=",
+      "Fingerprint": "d4r6k3f320",
+      "Integrity": "MwFckg8YbY2WrveNQnXkfULkprYhFOq+t1BH92A7GsI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
@@ -1606,8 +1606,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "s35ty4nyc5",
-      "Integrity": "GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=",
+      "Fingerprint": "zub09dkrxp",
+      "Integrity": "CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
@@ -1690,8 +1690,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "37tfw0ft22",
-      "Integrity": "j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=",
+      "Fingerprint": "ynyaa8k90p",
+      "Integrity": "/rceNUMI0RlFJugRzjua815bgXwawEJBGBPh4Vx3r38=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
@@ -1774,8 +1774,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6cfz1n2cew",
-      "Integrity": "mkoRoV24jV+rCPWcHDR5awPx8VuzzJKN0ibhxZ9/WaM=",
+      "Fingerprint": "4094rpi4f9",
+      "Integrity": "bNojyBU9M3Cv/K4YqdKkq4xeaAkchkkS7HXP7554z9Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
@@ -1858,8 +1858,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vr1egmr9el",
-      "Integrity": "exiXZNJDwucXfuje3CbXPbuS6+Ery3z9sP+pgmvh8nA=",
+      "Fingerprint": "ltid2c489k",
+      "Integrity": "idJzCWndWIhl4ZZvXbuLRTe5wquRfykXbEiDpO7ZsFk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
@@ -1942,8 +1942,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "notf2xhcfb",
-      "Integrity": "+UW802wgVfnjaSbdwyHLlU7AVplb0WToOlvN1CnzIac=",
+      "Fingerprint": "u9q1upor1n",
+      "Integrity": "vqK8KwEVuWidx0Ddm5m5LyBriPDPl9TcjrKZQhkFSVA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
@@ -2020,7 +2020,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000653167864"
+          "Quality": "0.000636132316"
         }
       ],
       "ResponseHeaders": [
@@ -2030,15 +2030,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1530"
+          "Value": "1571"
         },
         {
           "Name": "ETag",
-          "Value": "\"8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o=\""
+          "Value": "\"KfTtGgOr4gFqWP6bDC3erwKnY0fchsCFGM8SFQeyGO0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2091,7 +2091,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2116,7 +2116,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1530"
+          "Value": "1571"
         },
         {
           "Name": "Content-Type",
@@ -2124,11 +2124,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o=\""
+          "Value": "\"KfTtGgOr4gFqWP6bDC3erwKnY0fchsCFGM8SFQeyGO0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2146,7 +2146,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o="
+          "Value": "sha256-KfTtGgOr4gFqWP6bDC3erwKnY0fchsCFGM8SFQeyGO0="
         }
       ]
     },
@@ -2157,7 +2157,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000653167864"
+          "Quality": "0.000636132316"
         }
       ],
       "ResponseHeaders": [
@@ -2167,15 +2167,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1530"
+          "Value": "1571"
         },
         {
           "Name": "ETag",
-          "Value": "\"8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o=\""
+          "Value": "\"KfTtGgOr4gFqWP6bDC3erwKnY0fchsCFGM8SFQeyGO0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2236,7 +2236,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2269,7 +2269,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1530"
+          "Value": "1571"
         },
         {
           "Name": "Content-Type",
@@ -2277,11 +2277,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o=\""
+          "Value": "\"KfTtGgOr4gFqWP6bDC3erwKnY0fchsCFGM8SFQeyGO0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2307,7 +2307,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8AW5z0bh7/mw0xH4LdDSG9tn9KuE8navaRG23Xkbe7o="
+          "Value": "sha256-KfTtGgOr4gFqWP6bDC3erwKnY0fchsCFGM8SFQeyGO0="
         }
       ]
     },
@@ -2394,174 +2394,13 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap-grid.bqjiyaj88i.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\1kirfd7603-bqjiyaj88i.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000144592250"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6915"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HQp0c6N8q5wOxo27/7+5nSrp8SBfCepJdWIMB3pb5bE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Yy5/hBqRmmU2MJ1TKwP2aXoTO6+OjzrLmJIsC2Wy4H8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bqjiyaj88i"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-grid.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Yy5/hBqRmmU2MJ1TKwP2aXoTO6+OjzrLmJIsC2Wy4H8="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-grid.bqjiyaj88i.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "70329"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Yy5/hBqRmmU2MJ1TKwP2aXoTO6+OjzrLmJIsC2Wy4H8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bqjiyaj88i"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-grid.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Yy5/hBqRmmU2MJ1TKwP2aXoTO6+OjzrLmJIsC2Wy4H8="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-grid.bqjiyaj88i.css.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\1kirfd7603-bqjiyaj88i.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6915"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HQp0c6N8q5wOxo27/7+5nSrp8SBfCepJdWIMB3pb5bE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bqjiyaj88i"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-grid.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-HQp0c6N8q5wOxo27/7+5nSrp8SBfCepJdWIMB3pb5bE="
-        }
-      ]
-    },
-    {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\1kirfd7603-bqjiyaj88i.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\1kirfd7603-t1cqhe9u97.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000144592250"
+          "Quality": "0.000148038490"
         }
       ],
       "ResponseHeaders": [
@@ -2571,15 +2410,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6915"
+          "Value": "6754"
         },
         {
           "Name": "ETag",
-          "Value": "\"HQp0c6N8q5wOxo27/7+5nSrp8SBfCepJdWIMB3pb5bE=\""
+          "Value": "\"td/WnErsJHKP3LT8Bz6znCdABuCWnP513FYSQpHRK9A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2599,13 +2438,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Yy5/hBqRmmU2MJ1TKwP2aXoTO6+OjzrLmJIsC2Wy4H8=\""
+          "Value": "W/\"f4c8YV1qrr6RSiVYWMQT7R5W2OkT+iXmE5H69/uRvGQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Yy5/hBqRmmU2MJ1TKwP2aXoTO6+OjzrLmJIsC2Wy4H8="
+          "Value": "sha256-f4c8YV1qrr6RSiVYWMQT7R5W2OkT+iXmE5H69/uRvGQ="
         }
       ]
     },
@@ -2620,7 +2459,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "70329"
+          "Value": "74413"
         },
         {
           "Name": "Content-Type",
@@ -2628,11 +2467,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Yy5/hBqRmmU2MJ1TKwP2aXoTO6+OjzrLmJIsC2Wy4H8=\""
+          "Value": "\"f4c8YV1qrr6RSiVYWMQT7R5W2OkT+iXmE5H69/uRvGQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2642,7 +2481,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Yy5/hBqRmmU2MJ1TKwP2aXoTO6+OjzrLmJIsC2Wy4H8="
+          "Value": "sha256-f4c8YV1qrr6RSiVYWMQT7R5W2OkT+iXmE5H69/uRvGQ="
         }
       ]
     },
@@ -2809,7 +2648,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\1kirfd7603-bqjiyaj88i.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\1kirfd7603-t1cqhe9u97.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2818,7 +2657,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6915"
+          "Value": "6754"
         },
         {
           "Name": "Content-Type",
@@ -2826,11 +2665,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HQp0c6N8q5wOxo27/7+5nSrp8SBfCepJdWIMB3pb5bE=\""
+          "Value": "\"td/WnErsJHKP3LT8Bz6znCdABuCWnP513FYSQpHRK9A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2848,7 +2687,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HQp0c6N8q5wOxo27/7+5nSrp8SBfCepJdWIMB3pb5bE="
+          "Value": "sha256-td/WnErsJHKP3LT8Bz6znCdABuCWnP513FYSQpHRK9A="
         }
       ]
     },
@@ -3587,12 +3426,12 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\kxlwsye7uh-d7shbmvgxk.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\kxlwsye7uh-xvp3kq03qx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000144529556"
+          "Quality": "0.000148016578"
         }
       ],
       "ResponseHeaders": [
@@ -3602,15 +3441,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6918"
+          "Value": "6755"
         },
         {
           "Name": "ETag",
-          "Value": "\"+UkMsfq0zPH03cQtfw9papLT2sHleN3bw7S1s5iLonY=\""
+          "Value": "\"Jb3hghPX8HIvLINQ2LRDLH33mFfqyzbk+nTsbiHtKr4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3630,13 +3469,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CZxoF8zjaLlyVkcvVCDlc8CeQR1w1RMrvgYx30cs8kM=\""
+          "Value": "W/\"M15fHTKfMK6cTars5c28PNhN6hD0qeUb3HPzOdoPwCc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CZxoF8zjaLlyVkcvVCDlc8CeQR1w1RMrvgYx30cs8kM="
+          "Value": "sha256-M15fHTKfMK6cTars5c28PNhN6hD0qeUb3HPzOdoPwCc="
         }
       ]
     },
@@ -3651,7 +3490,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "70403"
+          "Value": "74486"
         },
         {
           "Name": "Content-Type",
@@ -3659,11 +3498,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CZxoF8zjaLlyVkcvVCDlc8CeQR1w1RMrvgYx30cs8kM=\""
+          "Value": "\"M15fHTKfMK6cTars5c28PNhN6hD0qeUb3HPzOdoPwCc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3673,7 +3512,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CZxoF8zjaLlyVkcvVCDlc8CeQR1w1RMrvgYx30cs8kM="
+          "Value": "sha256-M15fHTKfMK6cTars5c28PNhN6hD0qeUb3HPzOdoPwCc="
         }
       ]
     },
@@ -3840,7 +3679,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\kxlwsye7uh-d7shbmvgxk.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\kxlwsye7uh-xvp3kq03qx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3849,7 +3688,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6918"
+          "Value": "6755"
         },
         {
           "Name": "Content-Type",
@@ -3857,11 +3696,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+UkMsfq0zPH03cQtfw9papLT2sHleN3bw7S1s5iLonY=\""
+          "Value": "\"Jb3hghPX8HIvLINQ2LRDLH33mFfqyzbk+nTsbiHtKr4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3879,7 +3718,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+UkMsfq0zPH03cQtfw9papLT2sHleN3bw7S1s5iLonY="
+          "Value": "sha256-Jb3hghPX8HIvLINQ2LRDLH33mFfqyzbk+nTsbiHtKr4="
         }
       ]
     },
@@ -4017,167 +3856,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-ryK/tFqrYO6GpAIb5XFeLy8cUXDiklFAEkL+JelQZRo="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.d7shbmvgxk.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\kxlwsye7uh-d7shbmvgxk.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000144529556"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6918"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+UkMsfq0zPH03cQtfw9papLT2sHleN3bw7S1s5iLonY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"CZxoF8zjaLlyVkcvVCDlc8CeQR1w1RMrvgYx30cs8kM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "d7shbmvgxk"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-CZxoF8zjaLlyVkcvVCDlc8CeQR1w1RMrvgYx30cs8kM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.d7shbmvgxk.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "70403"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CZxoF8zjaLlyVkcvVCDlc8CeQR1w1RMrvgYx30cs8kM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "d7shbmvgxk"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-CZxoF8zjaLlyVkcvVCDlc8CeQR1w1RMrvgYx30cs8kM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.d7shbmvgxk.css.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\kxlwsye7uh-d7shbmvgxk.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6918"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+UkMsfq0zPH03cQtfw9papLT2sHleN3bw7S1s5iLonY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "d7shbmvgxk"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+UkMsfq0zPH03cQtfw9papLT2sHleN3bw7S1s5iLonY="
         }
       ]
     },
@@ -4778,13 +4456,13 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\s0xfmq02n0-ub07r2b239.gz",
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.xvp3kq03qx.css",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\kxlwsye7uh-xvp3kq03qx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000296208531"
+          "Quality": "0.000148016578"
         }
       ],
       "ResponseHeaders": [
@@ -4794,15 +4472,337 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3375"
+          "Value": "6755"
         },
         {
           "Name": "ETag",
-          "Value": "\"/Cti7KtgK7n0FoWSWRMvmhTwGSxieEUp+Ao+6Xxnmug=\""
+          "Value": "\"Jb3hghPX8HIvLINQ2LRDLH33mFfqyzbk+nTsbiHtKr4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"M15fHTKfMK6cTars5c28PNhN6hD0qeUb3HPzOdoPwCc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xvp3kq03qx"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M15fHTKfMK6cTars5c28PNhN6hD0qeUb3HPzOdoPwCc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.xvp3kq03qx.css",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74486"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M15fHTKfMK6cTars5c28PNhN6hD0qeUb3HPzOdoPwCc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xvp3kq03qx"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M15fHTKfMK6cTars5c28PNhN6hD0qeUb3HPzOdoPwCc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.xvp3kq03qx.css.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\kxlwsye7uh-xvp3kq03qx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jb3hghPX8HIvLINQ2LRDLH33mFfqyzbk+nTsbiHtKr4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xvp3kq03qx"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jb3hghPX8HIvLINQ2LRDLH33mFfqyzbk+nTsbiHtKr4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.t1cqhe9u97.css",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\1kirfd7603-t1cqhe9u97.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000148038490"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6754"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"td/WnErsJHKP3LT8Bz6znCdABuCWnP513FYSQpHRK9A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"f4c8YV1qrr6RSiVYWMQT7R5W2OkT+iXmE5H69/uRvGQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t1cqhe9u97"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-grid.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f4c8YV1qrr6RSiVYWMQT7R5W2OkT+iXmE5H69/uRvGQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.t1cqhe9u97.css",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f4c8YV1qrr6RSiVYWMQT7R5W2OkT+iXmE5H69/uRvGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t1cqhe9u97"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-grid.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f4c8YV1qrr6RSiVYWMQT7R5W2OkT+iXmE5H69/uRvGQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.t1cqhe9u97.css.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\1kirfd7603-t1cqhe9u97.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"td/WnErsJHKP3LT8Bz6znCdABuCWnP513FYSQpHRK9A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t1cqhe9u97"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-grid.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-td/WnErsJHKP3LT8Bz6znCdABuCWnP513FYSQpHRK9A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\s0xfmq02n0-qesaa3a1fm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000293427230"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3407"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H9IPXBzUtJGG7PJdjNTz1WD7YcFYCi+22bHkHPR+CdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4822,13 +4822,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"lo9YI82OF03vojdu+XOR3+DRrLIpMhpzZNmHbM5CDMA=\""
+          "Value": "W/\"rjusxCRzKjztCcfgOVduAc3e3Z7KvimJGokJSeADNmE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lo9YI82OF03vojdu+XOR3+DRrLIpMhpzZNmHbM5CDMA="
+          "Value": "sha256-rjusxCRzKjztCcfgOVduAc3e3Z7KvimJGokJSeADNmE="
         }
       ]
     },
@@ -4843,7 +4843,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12065"
+          "Value": "12661"
         },
         {
           "Name": "Content-Type",
@@ -4851,11 +4851,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lo9YI82OF03vojdu+XOR3+DRrLIpMhpzZNmHbM5CDMA=\""
+          "Value": "\"rjusxCRzKjztCcfgOVduAc3e3Z7KvimJGokJSeADNmE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4865,7 +4865,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lo9YI82OF03vojdu+XOR3+DRrLIpMhpzZNmHbM5CDMA="
+          "Value": "sha256-rjusxCRzKjztCcfgOVduAc3e3Z7KvimJGokJSeADNmE="
         }
       ]
     },
@@ -5032,7 +5032,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\s0xfmq02n0-ub07r2b239.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\s0xfmq02n0-qesaa3a1fm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5041,7 +5041,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3375"
+          "Value": "3407"
         },
         {
           "Name": "Content-Type",
@@ -5049,11 +5049,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/Cti7KtgK7n0FoWSWRMvmhTwGSxieEUp+Ao+6Xxnmug=\""
+          "Value": "\"H9IPXBzUtJGG7PJdjNTz1WD7YcFYCi+22bHkHPR+CdY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5071,7 +5071,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/Cti7KtgK7n0FoWSWRMvmhTwGSxieEUp+Ao+6Xxnmug="
+          "Value": "sha256-H9IPXBzUtJGG7PJdjNTz1WD7YcFYCi+22bHkHPR+CdY="
         }
       ]
     },
@@ -5809,13 +5809,13 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\vus1zivtfa-rzd6atqjts.gz",
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.qesaa3a1fm.css",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\s0xfmq02n0-qesaa3a1fm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000297176820"
+          "Quality": "0.000293427230"
         }
       ],
       "ResponseHeaders": [
@@ -5825,15 +5825,176 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3364"
+          "Value": "3407"
         },
         {
           "Name": "ETag",
-          "Value": "\"oSfmOJQjIULAN8mPr84YlRct/JVoFbWAn9Y7IWzBuoc=\""
+          "Value": "\"H9IPXBzUtJGG7PJdjNTz1WD7YcFYCi+22bHkHPR+CdY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rjusxCRzKjztCcfgOVduAc3e3Z7KvimJGokJSeADNmE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qesaa3a1fm"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rjusxCRzKjztCcfgOVduAc3e3Z7KvimJGokJSeADNmE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.qesaa3a1fm.css",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rjusxCRzKjztCcfgOVduAc3e3Z7KvimJGokJSeADNmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qesaa3a1fm"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rjusxCRzKjztCcfgOVduAc3e3Z7KvimJGokJSeADNmE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.qesaa3a1fm.css.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\s0xfmq02n0-qesaa3a1fm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3407"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H9IPXBzUtJGG7PJdjNTz1WD7YcFYCi+22bHkHPR+CdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qesaa3a1fm"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H9IPXBzUtJGG7PJdjNTz1WD7YcFYCi+22bHkHPR+CdY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\vus1zivtfa-rxsg74s51o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000294290759"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3397"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ueerZxLdSKIEsWJ13wzBfTcRfd3uGSfOQwhUfM1jRec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5853,13 +6014,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"V8psnHoJS/MPlCXWwc/J3tGtp9c3gGFRmqsIQgpn+Gg=\""
+          "Value": "W/\"gRKIHVkBgnCPUs/hmZsXynZ9ZJpvsE77idtljDkrWGI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-V8psnHoJS/MPlCXWwc/J3tGtp9c3gGFRmqsIQgpn+Gg="
+          "Value": "sha256-gRKIHVkBgnCPUs/hmZsXynZ9ZJpvsE77idtljDkrWGI="
         }
       ]
     },
@@ -5874,7 +6035,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12058"
+          "Value": "12651"
         },
         {
           "Name": "Content-Type",
@@ -5882,11 +6043,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V8psnHoJS/MPlCXWwc/J3tGtp9c3gGFRmqsIQgpn+Gg=\""
+          "Value": "\"gRKIHVkBgnCPUs/hmZsXynZ9ZJpvsE77idtljDkrWGI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5896,7 +6057,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-V8psnHoJS/MPlCXWwc/J3tGtp9c3gGFRmqsIQgpn+Gg="
+          "Value": "sha256-gRKIHVkBgnCPUs/hmZsXynZ9ZJpvsE77idtljDkrWGI="
         }
       ]
     },
@@ -6063,7 +6224,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\vus1zivtfa-rzd6atqjts.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\vus1zivtfa-rxsg74s51o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6072,7 +6233,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3364"
+          "Value": "3397"
         },
         {
           "Name": "Content-Type",
@@ -6080,11 +6241,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oSfmOJQjIULAN8mPr84YlRct/JVoFbWAn9Y7IWzBuoc=\""
+          "Value": "\"ueerZxLdSKIEsWJ13wzBfTcRfd3uGSfOQwhUfM1jRec=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6102,7 +6263,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-oSfmOJQjIULAN8mPr84YlRct/JVoFbWAn9Y7IWzBuoc="
+          "Value": "sha256-ueerZxLdSKIEsWJ13wzBfTcRfd3uGSfOQwhUfM1jRec="
         }
       ]
     },
@@ -6840,13 +7001,13 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.rzd6atqjts.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\vus1zivtfa-rzd6atqjts.gz",
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.rxsg74s51o.css",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\vus1zivtfa-rxsg74s51o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000297176820"
+          "Quality": "0.000294290759"
         }
       ],
       "ResponseHeaders": [
@@ -6856,15 +7017,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3364"
+          "Value": "3397"
         },
         {
           "Name": "ETag",
-          "Value": "\"oSfmOJQjIULAN8mPr84YlRct/JVoFbWAn9Y7IWzBuoc=\""
+          "Value": "\"ueerZxLdSKIEsWJ13wzBfTcRfd3uGSfOQwhUfM1jRec=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6884,13 +7045,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"V8psnHoJS/MPlCXWwc/J3tGtp9c3gGFRmqsIQgpn+Gg=\""
+          "Value": "W/\"gRKIHVkBgnCPUs/hmZsXynZ9ZJpvsE77idtljDkrWGI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rzd6atqjts"
+          "Value": "rxsg74s51o"
         },
         {
           "Name": "label",
@@ -6898,12 +7059,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-V8psnHoJS/MPlCXWwc/J3tGtp9c3gGFRmqsIQgpn+Gg="
+          "Value": "sha256-gRKIHVkBgnCPUs/hmZsXynZ9ZJpvsE77idtljDkrWGI="
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.rzd6atqjts.css",
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.rxsg74s51o.css",
       "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6913,7 +7074,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12058"
+          "Value": "12651"
         },
         {
           "Name": "Content-Type",
@@ -6921,11 +7082,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V8psnHoJS/MPlCXWwc/J3tGtp9c3gGFRmqsIQgpn+Gg=\""
+          "Value": "\"gRKIHVkBgnCPUs/hmZsXynZ9ZJpvsE77idtljDkrWGI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6935,7 +7096,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rzd6atqjts"
+          "Value": "rxsg74s51o"
         },
         {
           "Name": "label",
@@ -6943,13 +7104,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-V8psnHoJS/MPlCXWwc/J3tGtp9c3gGFRmqsIQgpn+Gg="
+          "Value": "sha256-gRKIHVkBgnCPUs/hmZsXynZ9ZJpvsE77idtljDkrWGI="
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.rzd6atqjts.css.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\vus1zivtfa-rzd6atqjts.gz",
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.rxsg74s51o.css.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\vus1zivtfa-rxsg74s51o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6958,7 +7119,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3364"
+          "Value": "3397"
         },
         {
           "Name": "Content-Type",
@@ -6966,11 +7127,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oSfmOJQjIULAN8mPr84YlRct/JVoFbWAn9Y7IWzBuoc=\""
+          "Value": "\"ueerZxLdSKIEsWJ13wzBfTcRfd3uGSfOQwhUfM1jRec=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6988,7 +7149,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rzd6atqjts"
+          "Value": "rxsg74s51o"
         },
         {
           "Name": "label",
@@ -6996,179 +7157,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-oSfmOJQjIULAN8mPr84YlRct/JVoFbWAn9Y7IWzBuoc="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.ub07r2b239.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\s0xfmq02n0-ub07r2b239.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000296208531"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3375"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/Cti7KtgK7n0FoWSWRMvmhTwGSxieEUp+Ao+6Xxnmug=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"lo9YI82OF03vojdu+XOR3+DRrLIpMhpzZNmHbM5CDMA=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ub07r2b239"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lo9YI82OF03vojdu+XOR3+DRrLIpMhpzZNmHbM5CDMA="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.ub07r2b239.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12065"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lo9YI82OF03vojdu+XOR3+DRrLIpMhpzZNmHbM5CDMA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ub07r2b239"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lo9YI82OF03vojdu+XOR3+DRrLIpMhpzZNmHbM5CDMA="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.ub07r2b239.css.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\s0xfmq02n0-ub07r2b239.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3375"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/Cti7KtgK7n0FoWSWRMvmhTwGSxieEUp+Ao+6Xxnmug=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ub07r2b239"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/Cti7KtgK7n0FoWSWRMvmhTwGSxieEUp+Ao+6Xxnmug="
+          "Value": "sha256-ueerZxLdSKIEsWJ13wzBfTcRfd3uGSfOQwhUfM1jRec="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\0zf5akgle3-khv3u5hwcm.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\0zf5akgle3-gye83jo8yx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000082453826"
+          "Quality": "0.000082767754"
         }
       ],
       "ResponseHeaders": [
@@ -7178,15 +7178,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12127"
+          "Value": "12081"
         },
         {
           "Name": "ETag",
-          "Value": "\"9EqjQR8ugEerwGk0t0elN3RQ+XHT25kPo1+/yYXwvNM=\""
+          "Value": "\"VGKPtySribew+qZrTcy+fpnTi7Q3gxSv+HWQQ/4rQos=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7206,13 +7206,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"2BubgNUPlQSF/0wLFcRXQ/Yjzk9vsUbDAeK2QM+h+yo=\""
+          "Value": "W/\"uIzOR4gILoNjCGNryIsWnkEGO3BSwRa/MLjr73tDodE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2BubgNUPlQSF/0wLFcRXQ/Yjzk9vsUbDAeK2QM+h+yo="
+          "Value": "sha256-uIzOR4gILoNjCGNryIsWnkEGO3BSwRa/MLjr73tDodE="
         }
       ]
     },
@@ -7227,7 +7227,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "107823"
+          "Value": "113224"
         },
         {
           "Name": "Content-Type",
@@ -7235,11 +7235,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2BubgNUPlQSF/0wLFcRXQ/Yjzk9vsUbDAeK2QM+h+yo=\""
+          "Value": "\"uIzOR4gILoNjCGNryIsWnkEGO3BSwRa/MLjr73tDodE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7249,13 +7249,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2BubgNUPlQSF/0wLFcRXQ/Yjzk9vsUbDAeK2QM+h+yo="
+          "Value": "sha256-uIzOR4gILoNjCGNryIsWnkEGO3BSwRa/MLjr73tDodE="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\0zf5akgle3-khv3u5hwcm.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\0zf5akgle3-gye83jo8yx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7264,7 +7264,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12127"
+          "Value": "12081"
         },
         {
           "Name": "Content-Type",
@@ -7272,11 +7272,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9EqjQR8ugEerwGk0t0elN3RQ+XHT25kPo1+/yYXwvNM=\""
+          "Value": "\"VGKPtySribew+qZrTcy+fpnTi7Q3gxSv+HWQQ/4rQos=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7294,7 +7294,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9EqjQR8ugEerwGk0t0elN3RQ+XHT25kPo1+/yYXwvNM="
+          "Value": "sha256-VGKPtySribew+qZrTcy+fpnTi7Q3gxSv+HWQQ/4rQos="
         }
       ]
     },
@@ -7597,13 +7597,13 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap-utilities.khv3u5hwcm.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\0zf5akgle3-khv3u5hwcm.gz",
+      "Route": "lib/bootstrap/dist/css/bootstrap-utilities.gye83jo8yx.css",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\0zf5akgle3-gye83jo8yx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000082453826"
+          "Quality": "0.000082767754"
         }
       ],
       "ResponseHeaders": [
@@ -7613,15 +7613,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12127"
+          "Value": "12081"
         },
         {
           "Name": "ETag",
-          "Value": "\"9EqjQR8ugEerwGk0t0elN3RQ+XHT25kPo1+/yYXwvNM=\""
+          "Value": "\"VGKPtySribew+qZrTcy+fpnTi7Q3gxSv+HWQQ/4rQos=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7641,13 +7641,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"2BubgNUPlQSF/0wLFcRXQ/Yjzk9vsUbDAeK2QM+h+yo=\""
+          "Value": "W/\"uIzOR4gILoNjCGNryIsWnkEGO3BSwRa/MLjr73tDodE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "khv3u5hwcm"
+          "Value": "gye83jo8yx"
         },
         {
           "Name": "label",
@@ -7655,12 +7655,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2BubgNUPlQSF/0wLFcRXQ/Yjzk9vsUbDAeK2QM+h+yo="
+          "Value": "sha256-uIzOR4gILoNjCGNryIsWnkEGO3BSwRa/MLjr73tDodE="
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap-utilities.khv3u5hwcm.css",
+      "Route": "lib/bootstrap/dist/css/bootstrap-utilities.gye83jo8yx.css",
       "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -7670,7 +7670,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "107823"
+          "Value": "113224"
         },
         {
           "Name": "Content-Type",
@@ -7678,11 +7678,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2BubgNUPlQSF/0wLFcRXQ/Yjzk9vsUbDAeK2QM+h+yo=\""
+          "Value": "\"uIzOR4gILoNjCGNryIsWnkEGO3BSwRa/MLjr73tDodE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7692,7 +7692,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "khv3u5hwcm"
+          "Value": "gye83jo8yx"
         },
         {
           "Name": "label",
@@ -7700,13 +7700,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2BubgNUPlQSF/0wLFcRXQ/Yjzk9vsUbDAeK2QM+h+yo="
+          "Value": "sha256-uIzOR4gILoNjCGNryIsWnkEGO3BSwRa/MLjr73tDodE="
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap-utilities.khv3u5hwcm.css.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\0zf5akgle3-khv3u5hwcm.gz",
+      "Route": "lib/bootstrap/dist/css/bootstrap-utilities.gye83jo8yx.css.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\0zf5akgle3-gye83jo8yx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7715,7 +7715,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12127"
+          "Value": "12081"
         },
         {
           "Name": "Content-Type",
@@ -7723,11 +7723,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9EqjQR8ugEerwGk0t0elN3RQ+XHT25kPo1+/yYXwvNM=\""
+          "Value": "\"VGKPtySribew+qZrTcy+fpnTi7Q3gxSv+HWQQ/4rQos=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7745,7 +7745,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "khv3u5hwcm"
+          "Value": "gye83jo8yx"
         },
         {
           "Name": "label",
@@ -7753,7 +7753,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9EqjQR8ugEerwGk0t0elN3RQ+XHT25kPo1+/yYXwvNM="
+          "Value": "sha256-VGKPtySribew+qZrTcy+fpnTi7Q3gxSv+HWQQ/4rQos="
         }
       ]
     },
@@ -8355,12 +8355,12 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\82boisd0bt-tdbxkamptv.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\82boisd0bt-d4r6k3f320.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000082850041"
+          "Quality": "0.000083097889"
         }
       ],
       "ResponseHeaders": [
@@ -8370,15 +8370,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12069"
+          "Value": "12033"
         },
         {
           "Name": "ETag",
-          "Value": "\"49exWGtFTeHrxPgcV2SALyeXqbJ0Gx2BAW7ghwTbDHs=\""
+          "Value": "\"rLnVjI3ToFgRadgC+qnQqkjBbeGzyUk/W1M+MRurfiM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8398,13 +8398,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"H6wkBbSwjua2veJoThJo4uy161jp+DOiZTloUlcZ6qQ=\""
+          "Value": "W/\"MwFckg8YbY2WrveNQnXkfULkprYhFOq+t1BH92A7GsI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-H6wkBbSwjua2veJoThJo4uy161jp+DOiZTloUlcZ6qQ="
+          "Value": "sha256-MwFckg8YbY2WrveNQnXkfULkprYhFOq+t1BH92A7GsI="
         }
       ]
     },
@@ -8419,7 +8419,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "107691"
+          "Value": "113083"
         },
         {
           "Name": "Content-Type",
@@ -8427,11 +8427,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H6wkBbSwjua2veJoThJo4uy161jp+DOiZTloUlcZ6qQ=\""
+          "Value": "\"MwFckg8YbY2WrveNQnXkfULkprYhFOq+t1BH92A7GsI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8441,13 +8441,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-H6wkBbSwjua2veJoThJo4uy161jp+DOiZTloUlcZ6qQ="
+          "Value": "sha256-MwFckg8YbY2WrveNQnXkfULkprYhFOq+t1BH92A7GsI="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\82boisd0bt-tdbxkamptv.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\82boisd0bt-d4r6k3f320.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8456,7 +8456,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12069"
+          "Value": "12033"
         },
         {
           "Name": "Content-Type",
@@ -8464,11 +8464,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"49exWGtFTeHrxPgcV2SALyeXqbJ0Gx2BAW7ghwTbDHs=\""
+          "Value": "\"rLnVjI3ToFgRadgC+qnQqkjBbeGzyUk/W1M+MRurfiM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8486,7 +8486,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-49exWGtFTeHrxPgcV2SALyeXqbJ0Gx2BAW7ghwTbDHs="
+          "Value": "sha256-rLnVjI3ToFgRadgC+qnQqkjBbeGzyUk/W1M+MRurfiM="
         }
       ]
     },
@@ -8785,6 +8785,167 @@
         {
           "Name": "integrity",
           "Value": "sha256-tYXT5KEqImURIzC3Qanl3vg3XPSckCiDY2iFihvBz4w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.d4r6k3f320.css",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\82boisd0bt-d4r6k3f320.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000083097889"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12033"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rLnVjI3ToFgRadgC+qnQqkjBbeGzyUk/W1M+MRurfiM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MwFckg8YbY2WrveNQnXkfULkprYhFOq+t1BH92A7GsI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d4r6k3f320"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MwFckg8YbY2WrveNQnXkfULkprYhFOq+t1BH92A7GsI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.d4r6k3f320.css",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113083"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MwFckg8YbY2WrveNQnXkfULkprYhFOq+t1BH92A7GsI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d4r6k3f320"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MwFckg8YbY2WrveNQnXkfULkprYhFOq+t1BH92A7GsI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.d4r6k3f320.css.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\82boisd0bt-d4r6k3f320.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rLnVjI3ToFgRadgC+qnQqkjBbeGzyUk/W1M+MRurfiM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d4r6k3f320"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rLnVjI3ToFgRadgC+qnQqkjBbeGzyUk/W1M+MRurfiM="
         }
       ]
     },
@@ -9385,174 +9546,13 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.tdbxkamptv.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\82boisd0bt-tdbxkamptv.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000082850041"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12069"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"49exWGtFTeHrxPgcV2SALyeXqbJ0Gx2BAW7ghwTbDHs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"H6wkBbSwjua2veJoThJo4uy161jp+DOiZTloUlcZ6qQ=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tdbxkamptv"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-H6wkBbSwjua2veJoThJo4uy161jp+DOiZTloUlcZ6qQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.tdbxkamptv.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "107691"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"H6wkBbSwjua2veJoThJo4uy161jp+DOiZTloUlcZ6qQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tdbxkamptv"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-H6wkBbSwjua2veJoThJo4uy161jp+DOiZTloUlcZ6qQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.tdbxkamptv.css.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\82boisd0bt-tdbxkamptv.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12069"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"49exWGtFTeHrxPgcV2SALyeXqbJ0Gx2BAW7ghwTbDHs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tdbxkamptv"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-49exWGtFTeHrxPgcV2SALyeXqbJ0Gx2BAW7ghwTbDHs="
-        }
-      ]
-    },
-    {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\dklgk9toxf-s35ty4nyc5.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\dklgk9toxf-zub09dkrxp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000029869470"
+          "Quality": "0.000029833826"
         }
       ],
       "ResponseHeaders": [
@@ -9562,15 +9562,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33478"
+          "Value": "33518"
         },
         {
           "Name": "ETag",
-          "Value": "\"MfXRRxefGD0S0k5f3gXwZNQW7ELiStY01dZj+IbLlaw=\""
+          "Value": "\"j8xOcokVqVMlkhtMkAD+dCGjp8eCK+RXUPREaOqe2TU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9590,13 +9590,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+          "Value": "W/\"CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+          "Value": "sha256-CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ="
         }
       ]
     },
@@ -9611,7 +9611,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "281046"
+          "Value": "293102"
         },
         {
           "Name": "Content-Type",
@@ -9619,11 +9619,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+          "Value": "\"CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9633,13 +9633,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+          "Value": "sha256-CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\dklgk9toxf-s35ty4nyc5.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\dklgk9toxf-zub09dkrxp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9648,7 +9648,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33478"
+          "Value": "33518"
         },
         {
           "Name": "Content-Type",
@@ -9656,11 +9656,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MfXRRxefGD0S0k5f3gXwZNQW7ELiStY01dZj+IbLlaw=\""
+          "Value": "\"j8xOcokVqVMlkhtMkAD+dCGjp8eCK+RXUPREaOqe2TU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9678,7 +9678,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MfXRRxefGD0S0k5f3gXwZNQW7ELiStY01dZj+IbLlaw="
+          "Value": "sha256-j8xOcokVqVMlkhtMkAD+dCGjp8eCK+RXUPREaOqe2TU="
         }
       ]
     },
@@ -10577,174 +10577,13 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.37tfw0ft22.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\21v7whm1kj-37tfw0ft22.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000029969731"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33366"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"h+uVSG7EhchzF96LorZkFbGFBO8oQowufr5PhxsGq8M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "37tfw0ft22"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.37tfw0ft22.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "280259"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "37tfw0ft22"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.37tfw0ft22.css.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\21v7whm1kj-37tfw0ft22.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33366"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"h+uVSG7EhchzF96LorZkFbGFBO8oQowufr5PhxsGq8M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "37tfw0ft22"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-h+uVSG7EhchzF96LorZkFbGFBO8oQowufr5PhxsGq8M="
-        }
-      ]
-    },
-    {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\21v7whm1kj-37tfw0ft22.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\21v7whm1kj-ynyaa8k90p.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000029969731"
+          "Quality": "0.000029962547"
         }
       ],
       "ResponseHeaders": [
@@ -10754,15 +10593,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33366"
+          "Value": "33374"
         },
         {
           "Name": "ETag",
-          "Value": "\"h+uVSG7EhchzF96LorZkFbGFBO8oQowufr5PhxsGq8M=\""
+          "Value": "\"CKd1DZe0tmjYGXJCdpcyExOT7GvFEZKGtk3+Ij7ZTSc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10782,13 +10621,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=\""
+          "Value": "W/\"/rceNUMI0RlFJugRzjua815bgXwawEJBGBPh4Vx3r38=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q="
+          "Value": "sha256-/rceNUMI0RlFJugRzjua815bgXwawEJBGBPh4Vx3r38="
         }
       ]
     },
@@ -10803,7 +10642,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "280259"
+          "Value": "292288"
         },
         {
           "Name": "Content-Type",
@@ -10811,11 +10650,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q=\""
+          "Value": "\"/rceNUMI0RlFJugRzjua815bgXwawEJBGBPh4Vx3r38=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10825,13 +10664,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j5E4XIj1p1kNnDi0x1teX9RXoh1/FNlPvCML9YmRh2Q="
+          "Value": "sha256-/rceNUMI0RlFJugRzjua815bgXwawEJBGBPh4Vx3r38="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\21v7whm1kj-37tfw0ft22.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\21v7whm1kj-ynyaa8k90p.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10840,7 +10679,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33366"
+          "Value": "33374"
         },
         {
           "Name": "Content-Type",
@@ -10848,11 +10687,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"h+uVSG7EhchzF96LorZkFbGFBO8oQowufr5PhxsGq8M=\""
+          "Value": "\"CKd1DZe0tmjYGXJCdpcyExOT7GvFEZKGtk3+Ij7ZTSc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10870,7 +10709,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-h+uVSG7EhchzF96LorZkFbGFBO8oQowufr5PhxsGq8M="
+          "Value": "sha256-CKd1DZe0tmjYGXJCdpcyExOT7GvFEZKGtk3+Ij7ZTSc="
         }
       ]
     },
@@ -11769,13 +11608,13 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\dklgk9toxf-s35ty4nyc5.gz",
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ynyaa8k90p.css",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\21v7whm1kj-ynyaa8k90p.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000029869470"
+          "Quality": "0.000029962547"
         }
       ],
       "ResponseHeaders": [
@@ -11785,15 +11624,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33478"
+          "Value": "33374"
         },
         {
           "Name": "ETag",
-          "Value": "\"MfXRRxefGD0S0k5f3gXwZNQW7ELiStY01dZj+IbLlaw=\""
+          "Value": "\"CKd1DZe0tmjYGXJCdpcyExOT7GvFEZKGtk3+Ij7ZTSc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11813,13 +11652,174 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+          "Value": "W/\"/rceNUMI0RlFJugRzjua815bgXwawEJBGBPh4Vx3r38=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
+          "Value": "ynyaa8k90p"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/rceNUMI0RlFJugRzjua815bgXwawEJBGBPh4Vx3r38="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ynyaa8k90p.css",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/rceNUMI0RlFJugRzjua815bgXwawEJBGBPh4Vx3r38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ynyaa8k90p"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/rceNUMI0RlFJugRzjua815bgXwawEJBGBPh4Vx3r38="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ynyaa8k90p.css.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\21v7whm1kj-ynyaa8k90p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33374"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CKd1DZe0tmjYGXJCdpcyExOT7GvFEZKGtk3+Ij7ZTSc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ynyaa8k90p"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CKd1DZe0tmjYGXJCdpcyExOT7GvFEZKGtk3+Ij7ZTSc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.zub09dkrxp.css",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\dklgk9toxf-zub09dkrxp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000029833826"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33518"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j8xOcokVqVMlkhtMkAD+dCGjp8eCK+RXUPREaOqe2TU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zub09dkrxp"
         },
         {
           "Name": "label",
@@ -11827,12 +11827,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+          "Value": "sha256-CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ="
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css",
+      "Route": "lib/bootstrap/dist/css/bootstrap.zub09dkrxp.css",
       "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11842,7 +11842,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "281046"
+          "Value": "293102"
         },
         {
           "Name": "Content-Type",
@@ -11850,11 +11850,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+          "Value": "\"CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11864,7 +11864,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
+          "Value": "zub09dkrxp"
         },
         {
           "Name": "label",
@@ -11872,13 +11872,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+          "Value": "sha256-CzmECrtXV8BSk/+8SG+Rw7Fr+3hCt2bS2bEkS4YD3PQ="
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\dklgk9toxf-s35ty4nyc5.gz",
+      "Route": "lib/bootstrap/dist/css/bootstrap.zub09dkrxp.css.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\dklgk9toxf-zub09dkrxp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11887,7 +11887,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33478"
+          "Value": "33518"
         },
         {
           "Name": "Content-Type",
@@ -11895,11 +11895,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MfXRRxefGD0S0k5f3gXwZNQW7ELiStY01dZj+IbLlaw=\""
+          "Value": "\"j8xOcokVqVMlkhtMkAD+dCGjp8eCK+RXUPREaOqe2TU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11917,7 +11917,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
+          "Value": "zub09dkrxp"
         },
         {
           "Name": "label",
@@ -11925,18 +11925,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MfXRRxefGD0S0k5f3gXwZNQW7ELiStY01dZj+IbLlaw="
+          "Value": "sha256-j8xOcokVqVMlkhtMkAD+dCGjp8eCK+RXUPREaOqe2TU="
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.6cfz1n2cew.js",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\smf20zgjmj-6cfz1n2cew.gz",
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.4094rpi4f9.js",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\smf20zgjmj-4094rpi4f9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000022491116"
+          "Quality": "0.000022400932"
         }
       ],
       "ResponseHeaders": [
@@ -11946,15 +11946,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "44461"
+          "Value": "44640"
         },
         {
           "Name": "ETag",
-          "Value": "\"Fd462fjZQtrrvL/sHbIIZF7ktZgtHombUabahz+Nhoo=\""
+          "Value": "\"qk/LGv3UCKBZhVKSwN0Lvyprj8TiWmp+iiWhP0Dwdt4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11974,13 +11974,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"mkoRoV24jV+rCPWcHDR5awPx8VuzzJKN0ibhxZ9/WaM=\""
+          "Value": "W/\"bNojyBU9M3Cv/K4YqdKkq4xeaAkchkkS7HXP7554z9Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6cfz1n2cew"
+          "Value": "4094rpi4f9"
         },
         {
           "Name": "label",
@@ -11988,12 +11988,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mkoRoV24jV+rCPWcHDR5awPx8VuzzJKN0ibhxZ9/WaM="
+          "Value": "sha256-bNojyBU9M3Cv/K4YqdKkq4xeaAkchkkS7HXP7554z9Y="
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.6cfz1n2cew.js",
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.4094rpi4f9.js",
       "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12003,7 +12003,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "207819"
+          "Value": "214133"
         },
         {
           "Name": "Content-Type",
@@ -12011,11 +12011,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mkoRoV24jV+rCPWcHDR5awPx8VuzzJKN0ibhxZ9/WaM=\""
+          "Value": "\"bNojyBU9M3Cv/K4YqdKkq4xeaAkchkkS7HXP7554z9Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12025,7 +12025,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6cfz1n2cew"
+          "Value": "4094rpi4f9"
         },
         {
           "Name": "label",
@@ -12033,13 +12033,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mkoRoV24jV+rCPWcHDR5awPx8VuzzJKN0ibhxZ9/WaM="
+          "Value": "sha256-bNojyBU9M3Cv/K4YqdKkq4xeaAkchkkS7HXP7554z9Y="
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.6cfz1n2cew.js.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\smf20zgjmj-6cfz1n2cew.gz",
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.4094rpi4f9.js.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\smf20zgjmj-4094rpi4f9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12048,7 +12048,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "44461"
+          "Value": "44640"
         },
         {
           "Name": "Content-Type",
@@ -12056,11 +12056,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Fd462fjZQtrrvL/sHbIIZF7ktZgtHombUabahz+Nhoo=\""
+          "Value": "\"qk/LGv3UCKBZhVKSwN0Lvyprj8TiWmp+iiWhP0Dwdt4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12078,7 +12078,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6cfz1n2cew"
+          "Value": "4094rpi4f9"
         },
         {
           "Name": "label",
@@ -12086,18 +12086,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Fd462fjZQtrrvL/sHbIIZF7ktZgtHombUabahz+Nhoo="
+          "Value": "sha256-qk/LGv3UCKBZhVKSwN0Lvyprj8TiWmp+iiWhP0Dwdt4="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\smf20zgjmj-6cfz1n2cew.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\smf20zgjmj-4094rpi4f9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000022491116"
+          "Quality": "0.000022400932"
         }
       ],
       "ResponseHeaders": [
@@ -12107,15 +12107,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "44461"
+          "Value": "44640"
         },
         {
           "Name": "ETag",
-          "Value": "\"Fd462fjZQtrrvL/sHbIIZF7ktZgtHombUabahz+Nhoo=\""
+          "Value": "\"qk/LGv3UCKBZhVKSwN0Lvyprj8TiWmp+iiWhP0Dwdt4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12135,13 +12135,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"mkoRoV24jV+rCPWcHDR5awPx8VuzzJKN0ibhxZ9/WaM=\""
+          "Value": "W/\"bNojyBU9M3Cv/K4YqdKkq4xeaAkchkkS7HXP7554z9Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mkoRoV24jV+rCPWcHDR5awPx8VuzzJKN0ibhxZ9/WaM="
+          "Value": "sha256-bNojyBU9M3Cv/K4YqdKkq4xeaAkchkkS7HXP7554z9Y="
         }
       ]
     },
@@ -12156,7 +12156,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "207819"
+          "Value": "214133"
         },
         {
           "Name": "Content-Type",
@@ -12164,11 +12164,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mkoRoV24jV+rCPWcHDR5awPx8VuzzJKN0ibhxZ9/WaM=\""
+          "Value": "\"bNojyBU9M3Cv/K4YqdKkq4xeaAkchkkS7HXP7554z9Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12178,7 +12178,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mkoRoV24jV+rCPWcHDR5awPx8VuzzJKN0ibhxZ9/WaM="
+          "Value": "sha256-bNojyBU9M3Cv/K4YqdKkq4xeaAkchkkS7HXP7554z9Y="
         }
       ]
     },
@@ -12345,7 +12345,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\smf20zgjmj-6cfz1n2cew.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\smf20zgjmj-4094rpi4f9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12354,7 +12354,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "44461"
+          "Value": "44640"
         },
         {
           "Name": "Content-Type",
@@ -12362,11 +12362,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Fd462fjZQtrrvL/sHbIIZF7ktZgtHombUabahz+Nhoo=\""
+          "Value": "\"qk/LGv3UCKBZhVKSwN0Lvyprj8TiWmp+iiWhP0Dwdt4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12384,7 +12384,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Fd462fjZQtrrvL/sHbIIZF7ktZgtHombUabahz+Nhoo="
+          "Value": "sha256-qk/LGv3UCKBZhVKSwN0Lvyprj8TiWmp+iiWhP0Dwdt4="
         }
       ]
     },
@@ -13123,12 +13123,12 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\q7tm03pejf-vr1egmr9el.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\q7tm03pejf-ltid2c489k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000034617648"
+          "Quality": "0.000034430519"
         }
       ],
       "ResponseHeaders": [
@@ -13138,15 +13138,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28886"
+          "Value": "29043"
         },
         {
           "Name": "ETag",
-          "Value": "\"K+JV1bWtCSH6pUbk4PUJUao1Gc0EagazN8O9VnhFaPE=\""
+          "Value": "\"ozEUTWBbc3wKZYb3ecLdk+9yMj3kbTTBJx6aTKh2FDs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13166,13 +13166,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"exiXZNJDwucXfuje3CbXPbuS6+Ery3z9sP+pgmvh8nA=\""
+          "Value": "W/\"idJzCWndWIhl4ZZvXbuLRTe5wquRfykXbEiDpO7ZsFk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-exiXZNJDwucXfuje3CbXPbuS6+Ery3z9sP+pgmvh8nA="
+          "Value": "sha256-idJzCWndWIhl4ZZvXbuLRTe5wquRfykXbEiDpO7ZsFk="
         }
       ]
     },
@@ -13187,7 +13187,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "135829"
+          "Value": "140276"
         },
         {
           "Name": "Content-Type",
@@ -13195,11 +13195,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"exiXZNJDwucXfuje3CbXPbuS6+Ery3z9sP+pgmvh8nA=\""
+          "Value": "\"idJzCWndWIhl4ZZvXbuLRTe5wquRfykXbEiDpO7ZsFk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13209,13 +13209,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-exiXZNJDwucXfuje3CbXPbuS6+Ery3z9sP+pgmvh8nA="
+          "Value": "sha256-idJzCWndWIhl4ZZvXbuLRTe5wquRfykXbEiDpO7ZsFk="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\q7tm03pejf-vr1egmr9el.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\q7tm03pejf-ltid2c489k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13224,7 +13224,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28886"
+          "Value": "29043"
         },
         {
           "Name": "Content-Type",
@@ -13232,11 +13232,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"K+JV1bWtCSH6pUbk4PUJUao1Gc0EagazN8O9VnhFaPE=\""
+          "Value": "\"ozEUTWBbc3wKZYb3ecLdk+9yMj3kbTTBJx6aTKh2FDs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13254,7 +13254,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-K+JV1bWtCSH6pUbk4PUJUao1Gc0EagazN8O9VnhFaPE="
+          "Value": "sha256-ozEUTWBbc3wKZYb3ecLdk+9yMj3kbTTBJx6aTKh2FDs="
         }
       ]
     },
@@ -13553,6 +13553,167 @@
         {
           "Name": "integrity",
           "Value": "sha256-oglZ6aWY/UXq+QsVhwhOwfIZbgvz7Dvjg/GfXmQsBVM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.esm.ltid2c489k.js",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\q7tm03pejf-ltid2c489k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000034430519"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29043"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ozEUTWBbc3wKZYb3ecLdk+9yMj3kbTTBJx6aTKh2FDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"idJzCWndWIhl4ZZvXbuLRTe5wquRfykXbEiDpO7ZsFk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ltid2c489k"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.esm.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-idJzCWndWIhl4ZZvXbuLRTe5wquRfykXbEiDpO7ZsFk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.esm.ltid2c489k.js",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"idJzCWndWIhl4ZZvXbuLRTe5wquRfykXbEiDpO7ZsFk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ltid2c489k"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.esm.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-idJzCWndWIhl4ZZvXbuLRTe5wquRfykXbEiDpO7ZsFk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.esm.ltid2c489k.js.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\q7tm03pejf-ltid2c489k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29043"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ozEUTWBbc3wKZYb3ecLdk+9yMj3kbTTBJx6aTKh2FDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ltid2c489k"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.esm.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ozEUTWBbc3wKZYb3ecLdk+9yMj3kbTTBJx6aTKh2FDs="
         }
       ]
     },
@@ -14153,174 +14314,13 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.vr1egmr9el.js",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\q7tm03pejf-vr1egmr9el.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000034617648"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28886"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"K+JV1bWtCSH6pUbk4PUJUao1Gc0EagazN8O9VnhFaPE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"exiXZNJDwucXfuje3CbXPbuS6+Ery3z9sP+pgmvh8nA=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vr1egmr9el"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.esm.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-exiXZNJDwucXfuje3CbXPbuS6+Ery3z9sP+pgmvh8nA="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.vr1egmr9el.js",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "135829"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"exiXZNJDwucXfuje3CbXPbuS6+Ery3z9sP+pgmvh8nA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vr1egmr9el"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.esm.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-exiXZNJDwucXfuje3CbXPbuS6+Ery3z9sP+pgmvh8nA="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.vr1egmr9el.js.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\q7tm03pejf-vr1egmr9el.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "28886"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"K+JV1bWtCSH6pUbk4PUJUao1Gc0EagazN8O9VnhFaPE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vr1egmr9el"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.esm.js.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-K+JV1bWtCSH6pUbk4PUJUao1Gc0EagazN8O9VnhFaPE="
-        }
-      ]
-    },
-    {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\7oprhio1yw-notf2xhcfb.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\7oprhio1yw-u9q1upor1n.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000033717715"
+          "Quality": "0.000033585223"
         }
       ],
       "ResponseHeaders": [
@@ -14330,15 +14330,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29657"
+          "Value": "29774"
         },
         {
           "Name": "ETag",
-          "Value": "\"mLLuMjFYOIYX8xSc8UD/TLCKJOjlhcscgrxC5va1aAs=\""
+          "Value": "\"pf2AOjAOccWBEl9ORfBaaHo0t3lQUfisiqfIeMW9tqI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14358,13 +14358,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+UW802wgVfnjaSbdwyHLlU7AVplb0WToOlvN1CnzIac=\""
+          "Value": "W/\"vqK8KwEVuWidx0Ddm5m5LyBriPDPl9TcjrKZQhkFSVA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+UW802wgVfnjaSbdwyHLlU7AVplb0WToOlvN1CnzIac="
+          "Value": "sha256-vqK8KwEVuWidx0Ddm5m5LyBriPDPl9TcjrKZQhkFSVA="
         }
       ]
     },
@@ -14379,7 +14379,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "145401"
+          "Value": "149895"
         },
         {
           "Name": "Content-Type",
@@ -14387,11 +14387,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+UW802wgVfnjaSbdwyHLlU7AVplb0WToOlvN1CnzIac=\""
+          "Value": "\"vqK8KwEVuWidx0Ddm5m5LyBriPDPl9TcjrKZQhkFSVA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14401,13 +14401,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+UW802wgVfnjaSbdwyHLlU7AVplb0WToOlvN1CnzIac="
+          "Value": "sha256-vqK8KwEVuWidx0Ddm5m5LyBriPDPl9TcjrKZQhkFSVA="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\7oprhio1yw-notf2xhcfb.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\7oprhio1yw-u9q1upor1n.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14416,7 +14416,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29657"
+          "Value": "29774"
         },
         {
           "Name": "Content-Type",
@@ -14424,11 +14424,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mLLuMjFYOIYX8xSc8UD/TLCKJOjlhcscgrxC5va1aAs=\""
+          "Value": "\"pf2AOjAOccWBEl9ORfBaaHo0t3lQUfisiqfIeMW9tqI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14446,7 +14446,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mLLuMjFYOIYX8xSc8UD/TLCKJOjlhcscgrxC5va1aAs="
+          "Value": "sha256-pf2AOjAOccWBEl9ORfBaaHo0t3lQUfisiqfIeMW9tqI="
         }
       ]
     },
@@ -15345,13 +15345,13 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.notf2xhcfb.js",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\7oprhio1yw-notf2xhcfb.gz",
+      "Route": "lib/bootstrap/dist/js/bootstrap.u9q1upor1n.js",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\7oprhio1yw-u9q1upor1n.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000033717715"
+          "Quality": "0.000033585223"
         }
       ],
       "ResponseHeaders": [
@@ -15361,15 +15361,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29657"
+          "Value": "29774"
         },
         {
           "Name": "ETag",
-          "Value": "\"mLLuMjFYOIYX8xSc8UD/TLCKJOjlhcscgrxC5va1aAs=\""
+          "Value": "\"pf2AOjAOccWBEl9ORfBaaHo0t3lQUfisiqfIeMW9tqI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15389,13 +15389,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+UW802wgVfnjaSbdwyHLlU7AVplb0WToOlvN1CnzIac=\""
+          "Value": "W/\"vqK8KwEVuWidx0Ddm5m5LyBriPDPl9TcjrKZQhkFSVA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "notf2xhcfb"
+          "Value": "u9q1upor1n"
         },
         {
           "Name": "label",
@@ -15403,12 +15403,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+UW802wgVfnjaSbdwyHLlU7AVplb0WToOlvN1CnzIac="
+          "Value": "sha256-vqK8KwEVuWidx0Ddm5m5LyBriPDPl9TcjrKZQhkFSVA="
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.notf2xhcfb.js",
+      "Route": "lib/bootstrap/dist/js/bootstrap.u9q1upor1n.js",
       "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -15418,7 +15418,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "145401"
+          "Value": "149895"
         },
         {
           "Name": "Content-Type",
@@ -15426,11 +15426,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+UW802wgVfnjaSbdwyHLlU7AVplb0WToOlvN1CnzIac=\""
+          "Value": "\"vqK8KwEVuWidx0Ddm5m5LyBriPDPl9TcjrKZQhkFSVA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15440,7 +15440,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "notf2xhcfb"
+          "Value": "u9q1upor1n"
         },
         {
           "Name": "label",
@@ -15448,13 +15448,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+UW802wgVfnjaSbdwyHLlU7AVplb0WToOlvN1CnzIac="
+          "Value": "sha256-vqK8KwEVuWidx0Ddm5m5LyBriPDPl9TcjrKZQhkFSVA="
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.notf2xhcfb.js.gz",
-      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\7oprhio1yw-notf2xhcfb.gz",
+      "Route": "lib/bootstrap/dist/js/bootstrap.u9q1upor1n.js.gz",
+      "AssetFile": "C:\\Users\\mateo\\Documents\\PokeLiga\\PokeLigaApp\\PokeLigaApp\\obj\\Debug\\net9.0\\compressed\\7oprhio1yw-u9q1upor1n.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15463,7 +15463,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29657"
+          "Value": "29774"
         },
         {
           "Name": "Content-Type",
@@ -15471,11 +15471,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mLLuMjFYOIYX8xSc8UD/TLCKJOjlhcscgrxC5va1aAs=\""
+          "Value": "\"pf2AOjAOccWBEl9ORfBaaHo0t3lQUfisiqfIeMW9tqI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:05:31 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15493,7 +15493,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "notf2xhcfb"
+          "Value": "u9q1upor1n"
         },
         {
           "Name": "label",
@@ -15501,7 +15501,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mLLuMjFYOIYX8xSc8UD/TLCKJOjlhcscgrxC5va1aAs="
+          "Value": "sha256-pf2AOjAOccWBEl9ORfBaaHo0t3lQUfisiqfIeMW9tqI="
         }
       ]
     },
@@ -15512,7 +15512,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000565930956"
+          "Quality": "0.000561797753"
         }
       ],
       "ResponseHeaders": [
@@ -15522,15 +15522,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1766"
+          "Value": "1779"
         },
         {
           "Name": "ETag",
-          "Value": "\"JOag/yqfg+Tpx844DjWX91y4pl3QSaG44/0f1OKleX4=\""
+          "Value": "\"dQntmoHnlz59nHPaR4KqwvQuh9PCw/ee9HU8AK2f88I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:06:08 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15583,7 +15583,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:06:08 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15608,7 +15608,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1766"
+          "Value": "1779"
         },
         {
           "Name": "Content-Type",
@@ -15616,11 +15616,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JOag/yqfg+Tpx844DjWX91y4pl3QSaG44/0f1OKleX4=\""
+          "Value": "\"dQntmoHnlz59nHPaR4KqwvQuh9PCw/ee9HU8AK2f88I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:06:08 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15638,7 +15638,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JOag/yqfg+Tpx844DjWX91y4pl3QSaG44/0f1OKleX4="
+          "Value": "sha256-dQntmoHnlz59nHPaR4KqwvQuh9PCw/ee9HU8AK2f88I="
         }
       ]
     },
@@ -15649,7 +15649,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000565930956"
+          "Quality": "0.000561797753"
         }
       ],
       "ResponseHeaders": [
@@ -15659,15 +15659,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1766"
+          "Value": "1779"
         },
         {
           "Name": "ETag",
-          "Value": "\"JOag/yqfg+Tpx844DjWX91y4pl3QSaG44/0f1OKleX4=\""
+          "Value": "\"dQntmoHnlz59nHPaR4KqwvQuh9PCw/ee9HU8AK2f88I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:06:08 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15728,7 +15728,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:06:08 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15761,7 +15761,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1766"
+          "Value": "1779"
         },
         {
           "Name": "Content-Type",
@@ -15769,11 +15769,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JOag/yqfg+Tpx844DjWX91y4pl3QSaG44/0f1OKleX4=\""
+          "Value": "\"dQntmoHnlz59nHPaR4KqwvQuh9PCw/ee9HU8AK2f88I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:06:08 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15799,7 +15799,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JOag/yqfg+Tpx844DjWX91y4pl3QSaG44/0f1OKleX4="
+          "Value": "sha256-dQntmoHnlz59nHPaR4KqwvQuh9PCw/ee9HU8AK2f88I="
         }
       ]
     },
@@ -15810,7 +15810,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000565930956"
+          "Quality": "0.000561797753"
         }
       ],
       "ResponseHeaders": [
@@ -15820,15 +15820,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1766"
+          "Value": "1779"
         },
         {
           "Name": "ETag",
-          "Value": "\"JOag/yqfg+Tpx844DjWX91y4pl3QSaG44/0f1OKleX4=\""
+          "Value": "\"dQntmoHnlz59nHPaR4KqwvQuh9PCw/ee9HU8AK2f88I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:06:08 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15889,7 +15889,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:06:08 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15922,7 +15922,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1766"
+          "Value": "1779"
         },
         {
           "Name": "Content-Type",
@@ -15930,11 +15930,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JOag/yqfg+Tpx844DjWX91y4pl3QSaG44/0f1OKleX4=\""
+          "Value": "\"dQntmoHnlz59nHPaR4KqwvQuh9PCw/ee9HU8AK2f88I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:06:08 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15960,7 +15960,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JOag/yqfg+Tpx844DjWX91y4pl3QSaG44/0f1OKleX4="
+          "Value": "sha256-dQntmoHnlz59nHPaR4KqwvQuh9PCw/ee9HU8AK2f88I="
         }
       ]
     },
@@ -15971,7 +15971,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000565930956"
+          "Quality": "0.000561797753"
         }
       ],
       "ResponseHeaders": [
@@ -15981,15 +15981,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1766"
+          "Value": "1779"
         },
         {
           "Name": "ETag",
-          "Value": "\"JOag/yqfg+Tpx844DjWX91y4pl3QSaG44/0f1OKleX4=\""
+          "Value": "\"dQntmoHnlz59nHPaR4KqwvQuh9PCw/ee9HU8AK2f88I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:06:08 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16042,7 +16042,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:06:08 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16067,7 +16067,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1766"
+          "Value": "1779"
         },
         {
           "Name": "Content-Type",
@@ -16075,11 +16075,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JOag/yqfg+Tpx844DjWX91y4pl3QSaG44/0f1OKleX4=\""
+          "Value": "\"dQntmoHnlz59nHPaR4KqwvQuh9PCw/ee9HU8AK2f88I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 18:06:08 GMT"
+          "Value": "Tue, 17 Dec 2024 19:03:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16097,7 +16097,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JOag/yqfg+Tpx844DjWX91y4pl3QSaG44/0f1OKleX4="
+          "Value": "sha256-dQntmoHnlz59nHPaR4KqwvQuh9PCw/ee9HU8AK2f88I="
         }
       ]
     }

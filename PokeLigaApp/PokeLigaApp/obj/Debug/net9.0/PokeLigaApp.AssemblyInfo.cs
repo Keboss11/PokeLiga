@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PokeLigaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0670ee24e4e81e4176edb8a50d8161fd1f2ed15b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a3da346cc7007708fc2a3550ba881a40ed2faaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("PokeLigaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PokeLigaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -33,10 +33,12 @@ public class CreateTrainerCommandHandlerShould
         await handler.Should().ThrowAsync<PokemonTypeInvalidException>().WithMessage("Solo fuego, agua y planta son validos");
 
     }
+    
 }
 
 public class PokemonTypeInvalidException : Exception
 {
+    public PokemonTypeInvalidException(string message) : base(message){}
 }
 
 public class TestTrainerRepository : TrainerRepository
@@ -64,6 +66,14 @@ public class CreateTrainerCommandHandler(TrainerRepository trainerRepository)
 {
     public async Task Execute(CreateTrainerCommand command)
     {
+        string[] validTypes = ["fuego", "agua", "planta"];
+        foreach (var pokemon in command.PokemonTeam)
+        {
+            if (!validTypes.Contains(pokemon.Type.ToLower()))
+            {
+                throw new PokemonTypeInvalidException("Solo fuego, agua y planta son validos");
+            }
+        }
         trainerRepository.Add(new Trainer(command.Username,command.PokemonTeam));
     }
 }
