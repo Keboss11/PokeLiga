@@ -1,4 +1,5 @@
 ﻿using FluentAssertions;
+using PokeLiga.Core;
 
 namespace PokeLigaApp.Tests;
 
@@ -8,7 +9,7 @@ public class CreateTrainerCommandHandlerShould
     public async Task create_trainer_with_a_username_and_a_list_of_pokemon()
     {
         const string username = "Ash";
-        var pokemonTeam = new List<Pokemon>{};
+        var pokemonTeam = new List<Pokemon>{ new Pokemon("Charmander","Fuego"), new Pokemon("squirtle","agua"),new Pokemon("bulbasaur", "planta")};
         var createTrainerCommand = new CreateTrainerCommand(username, pokemonTeam);
         var testTrainerRepository = new TestTrainerRepository();
         
@@ -36,11 +37,6 @@ public class CreateTrainerCommandHandlerShould
     
 }
 
-public class PokemonTypeInvalidException : Exception
-{
-    public PokemonTypeInvalidException(string message) : base(message){}
-}
-
 public class TestTrainerRepository : TrainerRepository
 {
     public List<Trainer> Trainers { get; set; } = new List<Trainer>();
@@ -49,49 +45,4 @@ public class TestTrainerRepository : TrainerRepository
     {
         Trainers.Add(trainer);
     }
-}
-
-public interface TrainerRepository
-{
-    Task Add(Trainer trainer);
-}
-
-public class Trainer(string Username, List<Pokemon> PokemonTeam)
-{
-    public string Username { get; } = Username;
-    public List<Pokemon> PokemonTeam { get; } = PokemonTeam;
-}
-
-public class CreateTrainerCommandHandler(TrainerRepository trainerRepository)
-{
-    public async Task Execute(CreateTrainerCommand command)
-    {
-        string[] validTypes = ["fuego", "agua", "planta"];
-        foreach (var pokemon in command.PokemonTeam)
-        {
-            if (!validTypes.Contains(pokemon.Type.ToLower()))
-            {
-                throw new PokemonTypeInvalidException("Solo fuego, agua y planta son validos");
-            }
-        }
-        trainerRepository.Add(new Trainer(command.Username,command.PokemonTeam));
-    }
-}
-
-public class CreateTrainerCommand
-{
-    public string Username { get; }
-    public List<Pokemon> PokemonTeam { get; }
-
-    public CreateTrainerCommand(string username, List<Pokemon> pokemonTeam)
-    {
-        Username = username;
-        PokemonTeam = pokemonTeam;
-    }
-}
-
-public class Pokemon(string Name, string Type)
-{
-    public string Name { get; } = Name;
-    public string Type { get; } = Type;
 }

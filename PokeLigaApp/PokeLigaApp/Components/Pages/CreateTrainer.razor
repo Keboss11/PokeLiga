@@ -1,0 +1,76 @@
+﻿@page "/create-trainer"
+@inject CreateTrainerCommandHandler TrainerCommandHandler
+
+<h3>Crear Entrenador</h3>
+
+<EditForm Model="@trainerData" OnValidSubmit="HandleSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div>
+        <label for="username">Nombre de Usuario:</label>
+        <InputText id="username" @bind-Value="trainerData.Username" />
+    </div>
+
+    <div>
+        <h4>Equipo Pokémon</h4>
+        @foreach (var pokemon in trainerData.PokemonTeam)
+        {
+            <div class="pokemon-item">
+                <label>Nombre:</label>
+                <InputText @bind-Value="pokemon.Name" />
+                <label>Tipo:</label>
+                <InputText @bind-Value="pokemon.Type" />
+            </div>
+        }
+        <button type="button" @onclick="AddPokemon">Agregar Pokémon</button>
+    </div>
+
+    <button type="submit">Crear Entrenador</button>
+</EditForm>
+
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <div class="error-message">@errorMessage</div>
+}
+
+@code {
+    private TrainerData trainerData = new TrainerData();
+    private string errorMessage;
+
+    private async Task HandleSubmit()
+    {
+        try
+        {
+            var command = new CreateTrainerCommand(
+                trainerData.Username,
+                trainerData.PokemonTeam.Select(p => new Pokemon(p.Name, p.Type)).ToList()
+            );
+
+            await TrainerCommandHandler.Execute(command);
+            errorMessage = null;
+            // Navegar o mostrar éxito
+        }
+        catch (PokemonTypeInvalidException ex)
+        {
+            errorMessage = ex.Message;
+        }
+    }
+
+    private void AddPokemon()
+    {
+        trainerData.PokemonTeam.Add(new PokemonData());
+    }
+
+    private class TrainerData
+    {
+        public string Username { get; set; }
+        public List<PokemonData> PokemonTeam { get; set; } = new();
+    }
+
+    private class PokemonData
+    {
+        public string Name { get; set; }
+        public string Type { get; set; }
+    }
+}

@@ -1,0 +1,12 @@
+C:\Users\mateo\Documents\PokeLiga\PokeLigaApp\PokeLiga.Core\bin\Debug\net9.0\PokeLiga.Core.deps.json
+C:\Users\mateo\Documents\PokeLiga\PokeLigaApp\PokeLiga.Core\bin\Debug\net9.0\PokeLiga.Core.dll
+C:\Users\mateo\Documents\PokeLiga\PokeLigaApp\PokeLiga.Core\bin\Debug\net9.0\PokeLiga.Core.pdb
+C:\Users\mateo\Documents\PokeLiga\PokeLigaApp\PokeLiga.Core\obj\Debug\net9.0\PokeLiga.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\Documents\PokeLiga\PokeLigaApp\PokeLiga.Core\obj\Debug\net9.0\PokeLiga.Core.AssemblyInfoInputs.cache
+C:\Users\mateo\Documents\PokeLiga\PokeLigaApp\PokeLiga.Core\obj\Debug\net9.0\PokeLiga.Core.AssemblyInfo.cs
+C:\Users\mateo\Documents\PokeLiga\PokeLigaApp\PokeLiga.Core\obj\Debug\net9.0\PokeLiga.Core.csproj.CoreCompileInputs.cache
+C:\Users\mateo\Documents\PokeLiga\PokeLigaApp\PokeLiga.Core\obj\Debug\net9.0\PokeLiga.Core.sourcelink.json
+C:\Users\mateo\Documents\PokeLiga\PokeLigaApp\PokeLiga.Core\obj\Debug\net9.0\PokeLiga.Core.dll
+C:\Users\mateo\Documents\PokeLiga\PokeLigaApp\PokeLiga.Core\obj\Debug\net9.0\refint\PokeLiga.Core.dll
+C:\Users\mateo\Documents\PokeLiga\PokeLigaApp\PokeLiga.Core\obj\Debug\net9.0\PokeLiga.Core.pdb
+C:\Users\mateo\Documents\PokeLiga\PokeLigaApp\PokeLiga.Core\obj\Debug\net9.0\ref\PokeLiga.Core.dll
