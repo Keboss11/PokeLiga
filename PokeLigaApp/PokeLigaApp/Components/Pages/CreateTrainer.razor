@@ -1,20 +1,20 @@
 ﻿@page "/create-trainer"
+@using PokeLiga.Core
 @inject CreateTrainerCommandHandler TrainerCommandHandler
 
 <h3>Crear Entrenador</h3>
 
-<EditForm Model="@trainerData" OnValidSubmit="HandleSubmit">
-    <DataAnnotationsValidator />
-    <ValidationSummary />
+<EditForm Model="Trainer" OnValidSubmit="HandleSubmit" FormName="CreateTrainerForm">
+   
 
     <div>
         <label for="username">Nombre de Usuario:</label>
-        <InputText id="username" @bind-Value="trainerData.Username" />
+        <InputText id="username" @bind-Value="Trainer.Username" />
     </div>
 
     <div>
         <h4>Equipo Pokémon</h4>
-        @foreach (var pokemon in trainerData.PokemonTeam)
+        @foreach (var pokemon in Trainer.PokemonTeam)
         {
             <div class="pokemon-item">
                 <label>Nombre:</label>
@@ -35,16 +35,23 @@
 }
 
 @code {
-    private TrainerData trainerData = new TrainerData();
+    [SupplyParameterFromForm]
+    private TrainerData? Trainer { get; set; }
     private string errorMessage;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        Trainer = new TrainerData();
+    }
 
     private async Task HandleSubmit()
     {
         try
         {
             var command = new CreateTrainerCommand(
-                trainerData.Username,
-                trainerData.PokemonTeam.Select(p => new Pokemon(p.Name, p.Type)).ToList()
+                Trainer.Username,
+                Trainer.PokemonTeam.Select(p => new Pokemon(p.Name, p.Type)).ToList()
             );
 
             await TrainerCommandHandler.Execute(command);
@@ -59,7 +66,7 @@
 
     private void AddPokemon()
     {
-        trainerData.PokemonTeam.Add(new PokemonData());
+        Trainer.PokemonTeam.Add(new PokemonData());
     }
 
     private class TrainerData

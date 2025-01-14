@@ -78,3 +78,7 @@ C:\Users\mateo\Documents\PokeLiga\PokeLigaApp\PokeLigaApp\obj\Debug\net9.0\compr
 C:\Users\mateo\Documents\PokeLiga\PokeLigaApp\PokeLigaApp\obj\Debug\net9.0\compressed\smf20zgjmj-4094rpi4f9.gz
 C:\Users\mateo\Documents\PokeLiga\PokeLigaApp\PokeLigaApp\obj\Debug\net9.0\compressed\q7tm03pejf-ltid2c489k.gz
 C:\Users\mateo\Documents\PokeLiga\PokeLigaApp\PokeLigaApp\obj\Debug\net9.0\compressed\7oprhio1yw-u9q1upor1n.gz
+C:\Users\mateo\Documents\PokeLiga\PokeLigaApp\PokeLigaApp\bin\Debug\net9.0\PokeLiga.Core.dll
+C:\Users\mateo\Documents\PokeLiga\PokeLigaApp\PokeLigaApp\bin\Debug\net9.0\PokeLiga.Core.pdb
+C:\Users\mateo\Documents\PokeLiga\PokeLigaApp\PokeLigaApp\obj\Debug\net9.0\PokeLigaApp.csproj.AssemblyReference.cache
+C:\Users\mateo\Documents\PokeLiga\PokeLigaApp\PokeLigaApp\obj\Debug\net9.0\PokeLiga.45D7CBB8.Up2Date
