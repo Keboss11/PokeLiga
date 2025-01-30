@@ -9,7 +9,9 @@ on:
 
 jobs:
   build:
-
+    defaults:
+      run:
+        working-directory: ./PokeLigaApp
     runs-on: ubuntu-latest
 
     steps:
