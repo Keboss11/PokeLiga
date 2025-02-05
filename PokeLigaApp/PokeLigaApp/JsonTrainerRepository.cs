@@ -13,6 +13,10 @@ public class JsonTrainerRepository : TrainerRepository
     {
         _filePath = "C:/mateo/JsonTrainers.json";
     }
+    public JsonTrainerRepository(string filePath)
+    {
+        _filePath = filePath;
+    }
 
     public async Task Add(Trainer trainer)
     {

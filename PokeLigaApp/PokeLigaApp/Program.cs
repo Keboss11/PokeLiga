@@ -8,7 +8,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 builder.Services.AddScoped<CreateTrainerCommandHandler>();
-builder.Services.AddScoped<TrainerRepository, JsonTrainerRepository>();
+builder.Services.AddScoped<TrainerRepository, JsonTrainerRepository>(sp => new JsonTrainerRepository(builder.Configuration["TrainerJsonPath"]) );
+var service = new ServiceCollection().BuildServiceProvider().GetService<CreateTrainerCommandHandler>();
+//service.Execute();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
